@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Importância da Floresta Amazônica e o Cuidado com os Animais</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            color: #333;
+        }
+
+
+        h1 {
+            text-align: center;
+            color: #2e7d32;
+        }
+
+
+        p {
+            text-align: justify;
+            margin-bottom: 16px;
+        }
+    </style>
+</head>
+<body>
+
+
+    <h1>A Importância da Floresta Amazônica e o Cuidado com os Animais</h1>
+
+
+    <p>
+        A Floresta Amazônica é uma das maiores e mais importantes florestas do mundo.
+        Ela abriga uma enorme variedade de plantas, árvores e animais, além de ajudar
+        a regular o clima e a produzir oxigênio. Seus rios fornecem água para milhões
+        de pessoas e sustentam a vida de inúmeras espécies.
+    </p>
+
+
+    <p>
+        Os animais que vivem na Amazônia, como onças, araras, macacos, botos e preguiças,
+        desempenham papéis importantes no equilíbrio da natureza. Eles ajudam na dispersão
+        de sementes, no controle de populações de outras espécies e na manutenção dos
+        ecossistemas. Quando um animal desaparece, todo o ambiente pode ser afetado.
+    </p>
+
+
+    <p>
+        Por isso, é fundamental cuidar da Floresta Amazônica e proteger os animais que nela vivem.
+        Evitar o desmatamento, combater as queimadas e preservar os habitats naturais são atitudes
+        essenciais para garantir a sobrevivência dessas espécies. Além disso, a conscientização da
+        população sobre a importância da preservação ambiental contribui para um futuro mais sustentável.
+    </p>
+
+
+    <p>
+        Proteger a Amazônia significa cuidar da biodiversidade, da água, do clima e da qualidade de vida
+        das gerações presentes e futuras. Cada pessoa pode colaborar respeitando a natureza e apoiando
+        ações de conservação ambiental.
+    </p>
+
+
+</body>
+</html>
